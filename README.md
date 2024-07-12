@@ -29,6 +29,9 @@ About me:
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, Linkedin
 
+### Featuring [react-google-generative-ai](https://github.com/alaaet/react-google-generative-ai)
+![input-box](https://github.com/alaaet/react-google-generative-ai/blob/main/src/assets/img/message-box.png)
+
 
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alaaet&show_icons=true&theme=radical" alt="Alaa Abuiteiwi"/>
